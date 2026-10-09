@@ -16,8 +16,6 @@
 <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2&section=header" width="100%"/>
-
 ## 😴 Focus
 
 <div align="center">
@@ -55,8 +53,6 @@ Next.js Frontends
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2&section=header" width="100%"/>
-
 ## 🧬 Tech Stack
 
 <div align="center">
@@ -76,7 +72,5 @@ Next.js Frontends
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2&section=header" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1D4ED8,100:0D1117&height=120&section=footer&text=Understand%20it.%20Build%20it.%20Ship%20it.&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
