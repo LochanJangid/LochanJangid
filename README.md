@@ -79,17 +79,4 @@ Next.js Frontends
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2&section=header" width="100%"/>
 
-## 😁 GitHub Stats
-
-<div align="center">
-
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LochanJangid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=22D3EE&text_color=c9d6e6&rank_icon=github&border_radius=14"/>
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LochanJangid&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d6e6&border_radius=14"/>
-
-<br/>
-
-<img alt="Streak" src="https://streak-stats.demolab.com?user=LochanJangid&hide_border=true&background=0D1117&ring=58A6FF&fire=22D3EE&currStreakLabel=58A6FF&sideLabels=c9d6e6&currStreakNum=ffffff&sideNums=ffffff&dates=6e7f96&border_radius=14"/>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1D4ED8,100:0D1117&height=120&section=footer&text=Understand%20it.%20Build%20it.%20Ship%20it.&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
-<img src="https://komarev.com/ghpvc/?username=LochanJangid&label=PROFILE%20VIEWS&color=1D4ED8&style=flat-square" alt="views"/>
